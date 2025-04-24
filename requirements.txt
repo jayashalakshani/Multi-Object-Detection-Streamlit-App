@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+pandas
+Pillow
+tensorflow==2.15.0
+keras-tuner
+ultralytics==8.0.197
