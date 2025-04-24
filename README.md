@@ -24,8 +24,8 @@ The app is deployed with **Streamlit** for an interactive interface, and leverag
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/multi-model-object-detection-streamlit.git
-cd multi-model-object-detection-streamlit
+git clone https://github.com/jayashalakshani/Multi-Object-Detection-Streamlit-App
+cd multi-model-object-detection-streamlit-app
 ```
 2. Install dependencies
 ```bash
